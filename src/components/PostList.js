@@ -7,8 +7,14 @@ class PostList extends React.Component {
     this.props.fetchPosts();
   }
   render() {
+    console.log(this.props.posts);
+    if (this.props.posts.length === 0) return <div>Loading</div>;
     return <div className="ui container">Post list</div>;
   }
 }
 
-export default connect(null, { fetchPosts })(PostList);
+const mapStatetoProps = (state) => {
+  return { posts: state.posts };
+};
+
+export default connect(mapStatetoProps, { fetchPosts })(PostList);

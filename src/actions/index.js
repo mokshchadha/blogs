@@ -5,7 +5,7 @@ export const fetchPosts = () => {
     const res = await jsonPlaceholder.get("/posts");
     dispatch({
       type: "FETCH_POSTS",
-      payload: res,
+      payload: res.data,
     });
   };
 };
