@@ -1,1 +1,85 @@
-<mxfile host="app.diagrams.net" modified="2021-09-12T17:59:26.163Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="Og10ZYsANEaWelt1jaSl" version="15.1.4" type="github"><diagram id="miqr3wvZaKL-1Nnjil0K" name="Page-1">5Zldk5MwFIZ/TW92Zh3CZ7m1u67OrDpadV3vIpxCHCAYQlv89YYSCimzHXTcSTpelbwJJHnz5PQEFs4q398xXKZvaQzZwrbi/cK5Wdi2bQWe+GmVplP8EHVCwkjcSSNhTX6BFC2p1iSGSmnIKc04KVUxokUBEVc0zBjdqc02NFN7LXECE2Ed4WyqPpCYp526tINBfw0kSfuekR92NTnuG8uZVCmO6W4kObcLZ8Uo5d1Vvl9B1prX+9Ld9+qJ2uPAGBR8zg3f3oO7aT68Q3VDr8vPlZc+BNe2KwfHm37GEAsDZJEyntKEFji7HdSXjNZFDO1jLVEa2txTWgoRCfEHcN7I1cQ1p0JKeZ7JWjFi1nyV9x8Kj23hhdcXb/bjyptGlqZTli5UtGYRnJlnjw5mCfAz7ZyuXevBqANp6B3QHMR4RAMGGeZkq0KCJWvJsd2wHOJCrsgfrI587hZnteyphCImRTJZtGFJWn93KeGwLvHBkp3YmKr9T9q4BcZhf3bisvY6CCXWcl97srgbNgnqyU9HG8S3nskrXwfIfw+kMxNI1yggnQmQUPysyWEEVeuBdi59S+USBbrBXOqNsENQfVRi6r+OsO5MoAOjgHYnQH9iuKhKYTmwLq3YEJaLpdBOtuurZDuWbrL7HO1SYm4wE9HQKESDCaJbSEkkzDQKT8dW8XRd7Xjal4VnOBNPhIziM5zw+eXI50fAUQrx1ZV+Po+JQJ+wLrXzOf3zuSxg0dxTFTLsWDU9Vw3I3lMcmxBPEVJ5DbQnsug/yWTR3LMZ8szCeno6W9dlmZFDJvum2FISwWE0EYjBCMYtAwKzp2K+1B6WLy4Ke3NxNSuv7cc9wnVg9A4KYJgbEIhPAQ31A+pcGKBzE9veRVMAPZfZxqQqMW+T24Xt47zlrvhelUejNBLrn2YO+om1zjkJmVhKZsBWP3136DzjS21RHD79HOpGH9Cc298=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-13T06:47:35.504Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="W1nn_X8YZ9rolB--7Nnb" version="15.1.2" type="github">
+  <diagram id="miqr3wvZaKL-1Nnjil0K" name="Page-1">
+    <mxGraphModel dx="1504" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZOe4fyQN1uyo-pUs5hW7-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZOe4fyQN1uyo-pUs5hW7-1" target="ZOe4fyQN1uyo-pUs5hW7-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KOZ5WFTXlTcH8YHfMdsP-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZOe4fyQN1uyo-pUs5hW7-1" target="KOZ5WFTXlTcH8YHfMdsP-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOe4fyQN1uyo-pUs5hW7-1" value="pending" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-790" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOe4fyQN1uyo-pUs5hW7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZOe4fyQN1uyo-pUs5hW7-3" target="ZOe4fyQN1uyo-pUs5hW7-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KOZ5WFTXlTcH8YHfMdsP-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZOe4fyQN1uyo-pUs5hW7-3" target="KOZ5WFTXlTcH8YHfMdsP-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOe4fyQN1uyo-pUs5hW7-3" value="enquiry sent" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-680" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOe4fyQN1uyo-pUs5hW7-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ZOe4fyQN1uyo-pUs5hW7-4" target="ZOe4fyQN1uyo-pUs5hW7-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KOZ5WFTXlTcH8YHfMdsP-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZOe4fyQN1uyo-pUs5hW7-4" target="KOZ5WFTXlTcH8YHfMdsP-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOe4fyQN1uyo-pUs5hW7-4" value="Transporter confirmed" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-620" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOe4fyQN1uyo-pUs5hW7-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZOe4fyQN1uyo-pUs5hW7-7" target="ZOe4fyQN1uyo-pUs5hW7-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOe4fyQN1uyo-pUs5hW7-7" value="vehicle confirmed" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-533" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOe4fyQN1uyo-pUs5hW7-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZOe4fyQN1uyo-pUs5hW7-9" target="ZOe4fyQN1uyo-pUs5hW7-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOe4fyQN1uyo-pUs5hW7-9" value="Vehicle Reached**" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-430" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOe4fyQN1uyo-pUs5hW7-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZOe4fyQN1uyo-pUs5hW7-11" target="ZOe4fyQN1uyo-pUs5hW7-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOe4fyQN1uyo-pUs5hW7-11" value="Vehicle Loaded" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-340" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOe4fyQN1uyo-pUs5hW7-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ZOe4fyQN1uyo-pUs5hW7-13" target="ZOe4fyQN1uyo-pUs5hW7-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOe4fyQN1uyo-pUs5hW7-13" value="Supplier Invoice received **" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-250" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOe4fyQN1uyo-pUs5hW7-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZOe4fyQN1uyo-pUs5hW7-15" target="ZOe4fyQN1uyo-pUs5hW7-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOe4fyQN1uyo-pUs5hW7-15" value="Invoice Generated" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-190" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOe4fyQN1uyo-pUs5hW7-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZOe4fyQN1uyo-pUs5hW7-19" target="ZOe4fyQN1uyo-pUs5hW7-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOe4fyQN1uyo-pUs5hW7-19" value="Vehicle dispatched&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-100" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOe4fyQN1uyo-pUs5hW7-20" value="Vehicle delivered" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-10" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KOZ5WFTXlTcH8YHfMdsP-1" value="&lt;span style=&quot;font-size: 7px&quot;&gt;dashboard.js&amp;nbsp; enquiryScheduled() ;&amp;nbsp; amountRecievable(); --- &lt;span style=&quot;background-color: rgb(204 , 255 , 153)&quot;&gt;status should not be in enquiry scheduled , sent, trans confirmed, vehicle confirmed invoice generated&amp;nbsp; &amp;nbsp;&lt;/span&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 7px&quot;&gt;&amp;nbsp;orderFunctions/Index.js rescheduledTransportEnquiry();&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;|| statusMap buyer&amp;nbsp;tracking public&amp;nbsp;Link&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 7px&quot;&gt;&amp;nbsp;transportEnquiry.js sendEnquiryMsgs();&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 7px&quot;&gt;||&amp;nbsp; &amp;nbsp; &amp;nbsp; scheduler functions sendTransportEnquriy for this status only&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 7px&quot;&gt;&amp;nbsp;orders/index.js editOrder();&amp;nbsp; ---- trivial&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 7px&quot;&gt;orderRoutse/ clearOrderStatus --- &lt;/span&gt;&lt;font color=&quot;#ff330a&quot; style=&quot;font-size: 7px&quot;&gt;JUMP&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 7px&quot;&gt;route /chooseLoadingAddress --- add loading address only for this status&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="10" width="569" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KOZ5WFTXlTcH8YHfMdsP-4" value="&lt;font style=&quot;font-size: 7px&quot;&gt;dashboard.js enquirySent();&amp;nbsp; amountRecievable();&amp;nbsp;&amp;nbsp;&lt;br&gt;orderRepo.js getOrderAcceptingQuotes(); -- used for transporter public page&lt;br&gt;public page for buyer tracking link&lt;br&gt;conditionsForQuotingFreight(); --- &lt;span style=&quot;background-color: rgb(204 , 255 , 153)&quot;&gt;used in transporter public page only enquiry sent and trans confirmed allowed for quoting&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-413" y="110" width="490" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KOZ5WFTXlTcH8YHfMdsP-7" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="250" width="510" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
